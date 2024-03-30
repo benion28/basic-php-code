@@ -1,0 +1,19 @@
+{
+    "name": "benion/autoloading",
+    "description": "A Basic PHP Using Composer For Autoloading",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bernard Iorver",
+            "email": "bernard.iorver28@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}

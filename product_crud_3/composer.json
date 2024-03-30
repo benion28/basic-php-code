@@ -1,0 +1,16 @@
+{
+    "name": "benion/product_crud_3",
+    "description": "A 2nd Better Version of Product Crud App",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bernard Iorver",
+            "email": "bernard.iorver28@gmail.com"
+        }
+    ],
+    "require": {}
+}
